@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppsList</string>
+    <string name="toast_added">Package added</string>
+    <string name="toast_removed">Package removed</string>
+</resources>
